@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ddddocr-for-java8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ddddocr_for_java8_jar</output-path>
+    <root id="archive" name="ddddocr-for-java8.jar">
+      <element id="module-output" name="ddddocr-for-java8" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/org/apache/logging/log4j/log4j-slf4j-impl/2.17.2/log4j-slf4j-impl-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/com/microsoft/onnxruntime/onnxruntime/1.11.0/onnxruntime-1.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/apache-maven-repository-ddddocr/com/alibaba/fastjson/1.2.76/fastjson-1.2.76.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ddddocr_for_java8">
+    <output-path>$PROJECT_DIR$/out/artifacts/ddddocr_for_java8/out/</output-path>
+    <root id="archive" name="ddddocr_for_java8.jar" />
+  </artifact>
+</component>
