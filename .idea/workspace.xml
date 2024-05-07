@@ -7,52 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c1c476-d166-4f39-a847-ade29d3d4d16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ddddocr_for_java8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ddddocr_for_java8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ddddocr-for-java8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/OCREngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/OCREngineOldImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/IOUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/ImageUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/LogUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/MapOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/ONNXRuntimeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/utils/ReadAllBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/d4/common_old.onnx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/d4/common_old_charset.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/OCREngineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/d4/common_old.onnx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/d4/common_old_charset.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templete/license.temp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/2AMLyA.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/8A62N1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/AENZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/ALNQ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/ALOX.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/BFOY.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/BGKR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/BOPY.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/DKQT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/KVXZ.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/ORVW.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/f233g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/jepv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/九乘六等于？.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/极速换新.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/controller/ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/controller/impl/ScreenShotImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/ScreenShotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/d4ocr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/d4ocr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/OCREngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/OCREngineTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -121,7 +82,7 @@
       <recent name="F:\JAVA\ddddocr-for-java8\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.ScreenShotTest.screenShotTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="d4ocr.Main" />
       <module name="ddddocr-for-java8" />
@@ -167,11 +128,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScreenShotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ddddocr-for-java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.gcszhn.d4ocr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.gcszhn.d4ocr" />
+      <option name="MAIN_CLASS_NAME" value="top.gcszhn.d4ocr.ScreenShotTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScreenShotTest.screenShotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ddddocr-for-java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.gcszhn.d4ocr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.gcszhn.d4ocr" />
+      <option name="MAIN_CLASS_NAME" value="top.gcszhn.d4ocr.ScreenShotTest" />
+      <option name="METHOD_NAME" value="screenShotTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ScreenShotTest.screenShotTest" />
+        <item itemvalue="JUnit.ScreenShotTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.OCREngineTest.test" />
         <item itemvalue="JUnit.OCREngineTest.recognizeTest" />
+        <item itemvalue="JUnit.OCREngineTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -187,82 +181,55 @@
       <updated>1704786490764</updated>
       <workItem from="1704786493914" duration="7196000" />
       <workItem from="1704852977559" duration="1244000" />
-      <workItem from="1704856066747" duration="697000" />
+      <workItem from="1704856066747" duration="5447000" />
+      <workItem from="1715064870193" duration="10203000" />
     </task>
+    <task id="LOCAL-00001" summary="java8适配">
+      <created>1704856838751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704856838751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java8适配" />
+    <option name="LAST_COMMIT_MESSAGE" value="java8适配" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1704786829352">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1715072081513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1704786829352" />
-    <state x="479" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1704798825447">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1715072081513" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1715076502555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="479" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1704798825447" />
-    <state x="520" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1704801610968">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1715076502555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="520" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1704801610968" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1704799855631">
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1715076502555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1704799855631" />
-    <state width="1493" height="133" key="GridCell.Tab.0.bottom" timestamp="1704856049538">
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1715076502555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1704856049538" />
-    <state width="1493" height="133" key="GridCell.Tab.0.center" timestamp="1704856049538">
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1715076484298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1704856049538" />
-    <state width="1493" height="133" key="GridCell.Tab.0.left" timestamp="1704856049538">
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1715076484298" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1715069429434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1704856049538" />
-    <state width="1493" height="133" key="GridCell.Tab.0.right" timestamp="1704856049538">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1704856049538" />
-    <state width="1493" height="232" key="GridCell.Tab.1.bottom" timestamp="1704799392080">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1704799392080" />
-    <state width="1493" height="232" key="GridCell.Tab.1.center" timestamp="1704799392080">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1704799392080" />
-    <state width="1493" height="232" key="GridCell.Tab.1.left" timestamp="1704799392080">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1704799392080" />
-    <state width="1493" height="232" key="GridCell.Tab.1.right" timestamp="1704799392080">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="232" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1704799392080" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1704856802264">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1704856802264" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1704856147980">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1704856147980" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1704854916675">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1704854916675" />
-    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1704856778848">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1704856778848" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1704788678357">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1704788678357" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1715069429434" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,6 +249,11 @@
           <line>41</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/d4ocr/OCREngine.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/d4ocr/OCREngineOldImpl.java</url>
           <line>54</line>
@@ -289,6 +261,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/d4ocr/controller/ScreenShot.java</url>
+          <line>15</line>
+          <properties class="d4ocr.controller.ScreenShot" method="getScreenShot">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

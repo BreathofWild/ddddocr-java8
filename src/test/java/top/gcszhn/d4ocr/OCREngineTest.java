@@ -31,7 +31,7 @@ public class OCREngineTest {
         engine = OCREngine.instance();
     }
 
-
+    @Test
     public void recognizeTest() throws IOException {
         String[] name = {
                 "AENZ", "ALNQ", "KVXZ", "DKQT", "极速换新", "8A62N1", "九乘六等于？", "jepv"
