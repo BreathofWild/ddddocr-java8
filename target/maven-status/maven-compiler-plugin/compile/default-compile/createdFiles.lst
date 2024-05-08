@@ -1,11 +1,13 @@
 d4ocr\utils\ReadAllBytes.class
 d4ocr\OCREngine.class
 d4ocr\utils\LogUtils$Level.class
+d4ocr\controller\ScreenShot.class
 d4ocr\utils\LogUtils.class
 d4ocr\OCREngineOldImpl.class
 d4ocr\utils\MapOf.class
 d4ocr\Main.class
 d4ocr\utils\IOUtils.class
+d4ocr\controller\impl\ScreenShotImpl.class
 d4ocr\utils\LogUtils$1.class
 d4ocr\utils\ImageUtils.class
 d4ocr\utils\ONNXRuntimeUtils.class

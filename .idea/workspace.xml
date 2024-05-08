@@ -7,12 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53c1c476-d166-4f39-a847-ade29d3d4d16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/controller/ScreenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/d4ocr/controller/impl/ScreenShotImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/ScreenShotTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/d4ocr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/d4ocr/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/OCREngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/OCREngineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/d4ocr/controller/ScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/d4ocr/controller/ScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/d4ocr/controller/impl/ScreenShotImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/d4ocr/controller/impl/ScreenShotImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/ScreenShotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/top/gcszhn/d4ocr/ScreenShotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -182,7 +185,9 @@
       <workItem from="1704786493914" duration="7196000" />
       <workItem from="1704852977559" duration="1244000" />
       <workItem from="1704856066747" duration="5447000" />
-      <workItem from="1715064870193" duration="10203000" />
+      <workItem from="1715064870193" duration="10440000" />
+      <workItem from="1715134027721" duration="5074000" />
+      <workItem from="1715158829355" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="java8适配">
       <created>1704856838751</created>
@@ -191,37 +196,68 @@
       <option name="project" value="LOCAL" />
       <updated>1704856838751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="截图功能开发">
+      <created>1715076525318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715076525318</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ddddocr-java8" />
+    </ignored-roots>
     <MESSAGE value="java8适配" />
-    <option name="LAST_COMMIT_MESSAGE" value="java8适配" />
+    <MESSAGE value="截图功能开发" />
+    <option name="LAST_COMMIT_MESSAGE" value="截图功能开发" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1715146439578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1715146439578" />
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1715072081513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1715072081513" />
-    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1715076502555">
+    <state x="372" y="4" key="CommitChangelistDialog2" timestamp="1715076522787">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
-    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1715076502555">
+    <state x="372" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1715076522787" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1715155041275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
-    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1715076502555">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1715155041275" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1715155041275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
-    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1715076502555">
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1715155041275" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1715155041274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1715076502555" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1715155041274" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1715155041275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1715155041275" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1715159018964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1715159018964" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1715134215922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1715134215922" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1715134176656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1715134176656" />
     <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1715076484298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -264,8 +300,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/d4ocr/controller/ScreenShot.java</url>
-          <line>15</line>
-          <properties class="d4ocr.controller.ScreenShot" method="getScreenShot">
+          <line>30</line>
+          <properties class="d4ocr.controller.ScreenShot">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="9" />
